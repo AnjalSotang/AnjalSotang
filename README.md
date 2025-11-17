@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anjal Sotang</h1>
+<h3 align="center">Full Stack Developer | React • Node.js • NextJS</h3>
 
-<!--
-**AnjalSotang/AnjalSotang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AnjalSotang&label=Profile%20views&color=0e75b6&style=flat" alt="AnjalSotang" />
+</p>
 
-Here are some ideas to get you started:
+<img align="right" alt="coding gif" width="300" src="https://i.gifer.com/ZZ5H.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning **Typescript, PostgreSQL, NextJS**
+- 🌱 I’m also learning **Docker, CI/CD**
+- 👯 Looking to collaborate on **Node.js & React projects**
+- 💬 Ask me about **React, Node.js, MySQL, MongoDB, Tailwind, Typescript**
+- 📫 Reach me at **anjalsotang26@gmail.com**
+- 🧑‍💻 Portfolio: [https://anjalrai.vercel.app/](https://anjalrai.vercel.app/)
+- ⚡ Fun fact: **I love building and breaking things 🤣**
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjalSotang&layout=compact&theme=default" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnjalSotang&show_icons=true&theme=default" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnjalSotang&theme=default" />
+</p>
+
+---
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnjalSotang" />
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="40"/>
+</p>
