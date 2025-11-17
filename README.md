@@ -2,11 +2,7 @@
 <h3 align="center">Full Stack Developer | React • Node.js • NextJS</h3>
 
 <p align="center">
-  <img alt="coding gif" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBtbmd1YzYybW83bDJnOXVibng3a3J2MGE1NHFiMjljc2R3c3pkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
-</p>
-
-<p align="center"
-  <img alt="coding gif" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBtbmd1YzYybW83bDJnOXVibng3a3J2MGE1NHFiMjljc2R3c3pkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
+  <img alt="coding gif" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxyeGRpenA4cHpoNWN0dHVod3IyM3dkcWZsbnYzcm1weXUzOGNmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
 </p>
 
 - 🔭 I’m currently learning **Typescript, PostgreSQL, NextJS**  
@@ -44,5 +40,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe8-UigYUWpSlX99BcIdW4i_LnUHvN7ho9Rg&s" width="40"/>
 </p>
