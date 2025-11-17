@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=AnjalSotang&label=Profile%20views&color=0e75b6&style=flat" alt="AnjalSotang" />
 </p>
 
+<p align="center"
   <img alt="coding gif" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBtbmd1YzYybW83bDJnOXVibng3a3J2MGE1NHFiMjljc2R3c3pkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" />
-
-
+</p>
 
 - 🔭 I’m currently learning **Typescript, PostgreSQL, NextJS**  
 - 🌱 I’m also learning **Docker, CI/CD**  
